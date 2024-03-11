@@ -4,7 +4,7 @@
 # Pandas Data Analysis Challenge
 
 ## Project Overview
-This project focuses on conducting a comprehensive data analysis using Python's Pandas library. By analyzing a fictional e-commerce company's dataset, we aim to uncover insights related to customer behavior, product performance, and overall business metrics. Key areas of investigation include identifying top customers, popular product categories, calculating profits, and much more.
+This project focuses on conducting a comprehensive data analysis using Python's Pandas library. By analyzing a fictional e-commerce company's dataset, I aim to uncover insights related to customer behavior, product performance, and overall business metrics. Key areas of investigation include identifying top customers, popular product categories, calculating profits, and much more.
 
 ## Challenge Instructions
 
