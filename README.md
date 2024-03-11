@@ -28,7 +28,7 @@ To run this analysis, ensure you have Python and Pandas installed. Clone the rep
 
 1. **Clone the Repository**
    ```
-   git clone https://github.com/CREAITIVE-THINKING/pandas-challenge-1.git
+   git clone https://github.com/YOUR_ID/pandas-challenge-1.git
    ```
 2. **Navigate to the Project Directory**
    ```
